@@ -1,4 +1,4 @@
-# Password-Gnerator by dev_wisz
+# Password-Generator by dev_wisz
 
 <!DOCTYPE html>
 <html lang="en">
